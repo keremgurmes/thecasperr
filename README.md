@@ -1,15 +1,16 @@
-#                        Selam
--  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
+<h1 align="center"> I'm Kerem</h1>
+<h3 align="center">Community moderator and full stack developer</h3>
 
-- Discord: imkerem,
-- If you are bored, you can write. -
+<h3 align="left">Connect with me 
+<p> Discord: imkerem</p></h3>
+<p align="left">
+</p>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link)
-[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-quare&labelColor=5865F2&logo=discord&logoColor=white&link=link)](link)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED760?style=flat-quare&labelColor=1ED760&logo=spotify&logoColor=white&link=link)](link)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-  
+If you are bored, you can write. -
+
+
